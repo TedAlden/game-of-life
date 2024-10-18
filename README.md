@@ -21,8 +21,8 @@
 2. Clone the repository.
 
     ```bash
-    git clone https://github.com/TedAlden/snake
-    cd snake/src
+    git clone https://github.com/TedAlden/game-of-life
+    cd game-of-life/src
     ```
 
 
